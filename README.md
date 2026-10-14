@@ -45,7 +45,7 @@ Install Pygame:
 pip install pygame
 ```
 
-Run the game:
+Run the game: 
 
 ```bash
 python mushroom_runner.py
